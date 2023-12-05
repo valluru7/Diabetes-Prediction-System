@@ -1,1 +1,2 @@
 # Diabetes-Prediction-System
+The primary goal of this project is to anticipate whether an individual is afflicted with diabetes by leveraging diverse features such as insulin level, glucose level, age, and BMI. The comprehensive process spans from collecting data to deploying a predictive model. In this context, logistic regression is employed to forecast accuracy. Additionally, a web application is developed using Django, a Python framework, to facilitate the interaction with the model.
